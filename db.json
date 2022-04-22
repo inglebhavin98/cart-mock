@@ -14,9 +14,9 @@
     "discount": "26%",
     "createdDate": "2022-04-21T19:32:47.306Z",
     "modifiedDate": "2022-04-21T19:33:04.025Z",
-    "isServiceable": false,
+    "isServiceable": true,
     "isPromotionApplied": true,
-    "priceTrendIndicator": "DOWN",
+    "priceTrendIndicator": "UP",
     "deliveryCharges": 0,
     "name": "Apple Earpods In-Ear Earphones with Mic (With Lighting Connector, MV7N2HN/A, White)",
     "thumbnail": "https://media.croma.com/image/upload/v1605259526/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/8984539987998.png"
