@@ -33,7 +33,7 @@
     "discount": "26%",
     "createdDate": "2022-04-21T19:32:47.306Z",
     "modifiedDate": "2022-04-21T19:33:04.025Z",
-    "isServiceable": false,
+    "isServiceable": true,
     "isPromotionApplied": true,
     "priceTrendIndicator": "DOWN",
     "deliveryCharges": 0,
