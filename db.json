@@ -12,12 +12,12 @@
             "total": 159900,
             "discount": "0%",
             "createdDate": "2022-04-23T09:56:47.543Z",
-            "modifiedDate": "2022-04-23T09:56:47.543Z",
+            "modifiedDate": "2022-04-23T11:54:19.549Z",
             "isServiceable": true,
             "isPromotionApplied": false,
             "priceTrendIndicator": "NEUTRAL",
             "deliveryCharges": 0,
-            "estimatedDeliveryDate": "2022-04-26T13:18:55.147+05:30",
+            "estimatedDeliveryDate": "2022-04-26T13:26:57.908+05:30",
             "name": "Apple iPhone 12 Pro Max (512GB ROM, 6GB RAM, MGDG3HN/A, Graphite)",
             "thumbnail": "https://media.croma.com/image/upload/v1605262545/Croma%20Assets/Communication/Mobiles/Images/8999513653278.png"
         },
@@ -32,12 +32,12 @@
             "total": 3600,
             "discount": "0%",
             "createdDate": "2022-04-23T10:02:31.378Z",
-            "modifiedDate": "2022-04-23T10:42:19.510Z",
+            "modifiedDate": "2022-04-23T11:54:42.379Z",
             "isServiceable": true,
             "isPromotionApplied": false,
             "priceTrendIndicator": "NEUTRAL",
             "deliveryCharges": 0,
-            "estimatedDeliveryDate": "2022-04-28T15:18:55.147+05:30",
+            "estimatedDeliveryDate": "2022-04-28T15:26:57.908+05:30",
             "name": "Apple 0.1 Meter 3.5mm Stereo to Lightning Extension/Audio Connector (For iPhones/iPads/iPods, MMX62ZM/A, White)",
             "thumbnail": "https://media.croma.com/image/upload/v1605254883/Croma%20Assets/Miscellanous/Cables%20and%20Connectors/Images/8993901576222.png"
         },
@@ -57,7 +57,7 @@
             "isPromotionApplied": false,
             "priceTrendIndicator": "NEUTRAL",
             "deliveryCharges": 0,
-            "estimatedDeliveryDate": "2022-04-26T13:18:55.148+05:30",
+            "estimatedDeliveryDate": "2022-04-26T13:26:57.908+05:30",
             "name": "Samsung 6.5 kg 5 Star Fully Automatic Front Load Washing Machine (12 Wash Programs, WW66R20GKSS/TL, Silver)",
             "thumbnail": "https://media.croma.com/image/upload/v1605304770/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/8999312031774.png"
         }
@@ -68,5 +68,5 @@
     "totalDeliveryCharges": 0,
     "payableValue": 231700,
     "createdDate": "2022-04-22T15:01:26.202Z",
-    "modifiedDate": "2022-04-23T10:48:11.200Z"
+    "modifiedDate": "2022-04-23T11:54:42.379Z"
 }
