@@ -2,26 +2,6 @@
     "customerHash": "9300457dc2135c03795531b88e637aed",
     "items": [
         {
-            "skuId": "229969",
-            "programId": "73eb6345-9cc9-4c37-a8e8-8620d6d32cf5",
-            "category": "Electronics",
-            "quantity": 1,
-            "promotionId": "71897h",
-            "mrp": 159900,
-            "mop": 159900,
-            "total": 159900,
-            "discount": "0%",
-            "createdDate": "2022-04-23T09:56:47.543Z",
-            "modifiedDate": "2022-04-23T11:54:19.549Z",
-            "isServiceable": true,
-            "isPromotionApplied": false,
-            "priceTrendIndicator": "NEUTRAL",
-            "deliveryCharges": 0,
-            "estimatedDeliveryDate": "2022-04-26T13:26:57.908+05:30",
-            "name": "Apple iPhone 12 Pro Max (512GB ROM, 6GB RAM, MGDG3HN/A, Graphite)",
-            "thumbnail": "https://media.croma.com/image/upload/v1605262545/Croma%20Assets/Communication/Mobiles/Images/8999513653278.png"
-        },
-        {
             "skuId": "199714",
             "programId": "73eb6345-9cc9-4c37-a8e8-8620d6d32cf5",
             "category": "Electronics",
